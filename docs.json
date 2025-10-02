@@ -11,13 +11,20 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Generale",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Introduzione",
             "pages": [
-              "index",
-              "development"
+              "enderdevelopment",
+              "servizi"
+            ]
+          },
+          {
+            "group": "Updates",
+            "pages": [
+              "changelog",
+              "annunci"
             ]
           }
         ]
