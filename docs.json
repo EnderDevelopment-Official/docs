@@ -21,10 +21,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API reference",
-        "groups": []
       }
     ],
     "global": {
@@ -43,20 +39,20 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://enderdevelopment.com/contatti"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dash.enderdevelopment.com"
     }
   },
   "contextual": {
